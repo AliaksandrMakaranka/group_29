@@ -1,2 +1,2 @@
-# group_29
-for study 
+# group_29 KS classes
+for study here we change name  
