@@ -1,0 +1,10 @@
+it's HW 2 git
+first we create branch 
+-Postman
+-Jmete
+-CheckList
+-Bag Report
+-SQL
+-Charles
+-Mobile Testing
+
