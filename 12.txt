@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-gogi
-magogi
-=======
-zalp
-plm
->>>>>>> apple_pay
-
